@@ -1,5 +1,4 @@
 /*Ejemplo de valores y operaciones de tipo de dato
-Ejemplo double 
 Delgadillo, Laura
 28/04/2019
 */
@@ -29,5 +28,7 @@ int main()
 	int n{ 19 };
 	std::cout << m * n;
 	std::cout << "\n";
+
+
 }
 
