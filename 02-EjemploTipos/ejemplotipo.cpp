@@ -4,12 +4,13 @@ Delgadillo, Laura
 */
 
 #include <iostream>
+#include <string>
 
 int main()
 {
 	double a{ 18.578 };
 	double b{ 5.74 };
-    std::cout << a/b; 
+    std::cout << a/b;
 
 	bool var = true and false;
 	std::cout << var;
@@ -29,6 +30,8 @@ int main()
 	std::cout << m * n;
 	std::cout << "\n";
 
+	std::string v="Laura Delgadillo";
+	std::cout << v.length();
 
 }
 
